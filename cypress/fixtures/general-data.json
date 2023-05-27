@@ -1,0 +1,12 @@
+{
+  "pages": [
+    {
+      "url": "/",
+      "title": "Home"
+    }
+  ],
+  "theme": {
+    "darkBackground": "#838383",
+    "lightBackground": "#efefef"
+  }
+}
